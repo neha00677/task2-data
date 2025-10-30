@@ -9,7 +9,7 @@ A lightweight FAQ chatbot built with Streamlit and Groq’s model. It answers co
 
 ## 📸 Screenshot
 
-![Chatbot Interface](chatbot.png)
+![Chatbot Interface]()
 
 ## ⚙️ How to Run Locally
 - Create a virtual environment
